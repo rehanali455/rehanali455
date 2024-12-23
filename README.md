@@ -2,7 +2,7 @@
 - 👀 I’m interested in Application Development/Machine Learning
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Projects Based on flutter and Dart
-- 📫 You can contact me on -->baltirehan455@gmail.com
+- 📫 You can contact me on -->rehanalibalti455@gmail.com
 
 
 <!---
